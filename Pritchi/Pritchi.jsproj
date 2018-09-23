@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|AnyCPU">
+      <Configuration>Debug</Configuration>
+      <Platform>AnyCPU</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|ARM">
+      <Configuration>Debug</Configuration>
+      <Platform>ARM</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x86">
+      <Configuration>Debug</Configuration>
+      <Platform>x86</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|AnyCPU">
+      <Configuration>Release</Configuration>
+      <Platform>AnyCPU</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|ARM">
+      <Configuration>Release</Configuration>
+      <Platform>ARM</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x86">
+      <Configuration>Release</Configuration>
+      <Platform>x86</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>5f94b719-d604-48f0-875f-4d2ed775cca7</ProjectGuid>
+    <SccProjectName>SAK</SccProjectName>
+    <SccProvider>SAK</SccProvider>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccLocalPath>SAK</SccLocalPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '11.0'">
+    <VisualStudioVersion>11.0</VisualStudioVersion>
+  </PropertyGroup>
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\$(WMSJSProjectDirectory)\Microsoft.VisualStudio.$(WMSJSProject).Default.props" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\$(WMSJSProjectDirectory)\Microsoft.VisualStudio.$(WMSJSProject).props" />
+  <PropertyGroup>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetPlatformVersion>8.0</TargetPlatformVersion>
+    <DefaultLanguage>en-US</DefaultLanguage>
+    <PackageCertificateKeyFile>Pritchi_TemporaryKey.pfx</PackageCertificateKeyFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppxManifest Include="package.appxmanifest">
+      <SubType>Designer</SubType>
+    </AppxManifest>
+    <Content Include="audio\01. Предисловие.mp3" />
+    <Content Include="audio\02. Об отношениях.mp3" />
+    <Content Include="audio\03. Об орлах.mp3" />
+    <Content Include="audio\04. Об открытых дверях.mp3" />
+    <Content Include="audio\05. О войне.mp3" />
+    <Content Include="audio\06. О кризисе.mp3" />
+    <Content Include="audio\07. О мастерстве.mp3" />
+    <Content Include="audio\08. О рамках.mp3" />
+    <Content Include="audio\09. О рыбе и воде.mp3" />
+    <Content Include="audio\10. О советах.mp3" />
+    <Content Include="audio\11. О позитиве.mp3" />
+    <Content Include="audio\12. О мотивации.mp3" />
+    <Content Include="audio\13. О страхе.mp3" />
+    <Content Include="audio\14. О ценности жизни.mp3" />
+    <Content Include="audio\15. О тиграх и обезьянах.mp3" />
+    <Content Include="audio\16.О трудностях.mp3" />
+    <Content Include="audio\17. PS.mp3" />
+    <Content Include="audio\18. О жене богине.mp3" />
+    <Content Include="audio\19. О форме и наполнении.mp3" />
+    <Content Include="audio\20. Об орлах.mp3" />
+    <Content Include="audio\21. О Жизни и смерти.mp3" />
+    <Content Include="audio\22. О Зависти.mp3" />
+    <Content Include="audio\23. О Качествах.mp3" />
+    <Content Include="audio\24. О Мировоззрении.mp3" />
+    <Content Include="audio\25. О Мудрости.mp3" />
+    <Content Include="audio\26. О Намерении.mp3" />
+    <Content Include="audio\27. О Направлении движения.mp3" />
+    <Content Include="audio\28. О Незнании.mp3" />
+    <Content Include="audio\30. О Подтасовках.mp3" />
+    <Content Include="audio\31. О Позитиве.mp3" />
+    <Content Include="audio\32. О Помощи.mp3" />
+    <Content Include="audio\33. О Потом.mp3" />
+    <Content Include="audio\34. О Правоте.mp3" />
+    <Content Include="audio\35. О Тактиках.mp3" />
+    <Content Include="audio\36. О Хорошо и плохо.mp3" />
+    <Content Include="audio\37. О Целях.mp3" />
+    <Content Include="audio\38. Об Обидах.mp3" />
+    <Content Include="audio\39. Об Окружении.mp3" />
+    <Content Include="audio\40. Мимирендум.mp3" />
+    <Content Include="audio\41. О просветлении.mp3" />
+    <Content Include="audio\42. О парадоксе.mp3" />
+    <Content Include="audio\43. О мотивации.mp3" />
+    <Content Include="audio\45. О проблемах.mp3" />
+    <Content Include="audio\46. О пушистиках.mp3" />
+    <Content Include="css\default.css" />
+    <Content Include="data\data.txt" />
+    <Content Include="images\2.jpg" />
+    <Content Include="images\logo.png" />
+    <Content Include="images\smalllogo.png" />
+    <Content Include="images\splashscreen.png" />
+    <Content Include="images\storelogo.png" />
+    <Content Include="images\volume.png" />
+    <Content Include="js\data.js" />
+    <Content Include="js\default.js" />
+    <Content Include="js\navigator.js" />
+    <Content Include="pages\itemDetail\itemDetail.css" />
+    <Content Include="pages\itemDetail\itemDetail.html" />
+    <Content Include="pages\itemDetail\itemDetail.js" />
+    <Content Include="pages\groupDetail\groupDetail.css" />
+    <Content Include="pages\groupDetail\groupDetail.html" />
+    <Content Include="pages\groupDetail\groupDetail.js" />
+    <Content Include="pages\groupedItems\groupedItems.css" />
+    <Content Include="pages\groupedItems\groupedItems.html" />
+    <Content Include="pages\groupedItems\groupedItems.js" />
+    <Content Include="default.html" />
+    <Content Include="pages\itemSplit\itemSplit.css" />
+    <Content Include="pages\itemSplit\itemSplit.html" />
+    <Content Include="pages\itemSplit\itemSplit.js" />
+    <None Include="Pritchi_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <SDKReference Include="Microsoft.WinJS.1.0, Version=1.0" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\$(WMSJSProjectDirectory)\Microsoft.VisualStudio.$(WMSJSProject).targets" />
+  <!-- To modify your build process, add your task inside one of the targets below then uncomment
+       that target and the DisableFastUpToDateCheck PropertyGroup. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  <PropertyGroup>
+    <DisableFastUpToDateCheck>true</DisableFastUpToDateCheck>
+  </PropertyGroup>
+  -->
+</Project>

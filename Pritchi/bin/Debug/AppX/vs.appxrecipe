@@ -1,0 +1,313 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>PIETRO</Machine>
+    <WindowsUser>Peter</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>A8C521BE5EC522B013E5D3AAB87A8AEDA276EACE82732A0B2CB5BEC7CC2772AA</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>5f94b719-d604-48f0-875f-4d2ed775cca7_1.0.0.0_neutral__tp1tpcm9wdwpy</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>5f94b719-d604-48f0-875f-4d2ed775cca7_tp1tpcm9wdwpy!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>5f94b719-d604-48f0-875f-4d2ed775cca7</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Peter</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Peter\Documents\Visual Studio 2012\Projects\Pritchi\ListenPritch\Pritchi\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-02-02T18:55:39.789</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Peter\Documents\Visual Studio 2012\Projects\Pritchi\ListenPritch\Pritchi\audio\01. Предисловие.mp3">
+      <PackagePath>audio\01. Предисловие.mp3</PackagePath>
+      <Modified>2009-12-04T07:28:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Peter\Documents\Visual Studio 2012\Projects\Pritchi\ListenPritch\Pritchi\audio\02. Об отношениях.mp3">
+      <PackagePath>audio\02. Об отношениях.mp3</PackagePath>
+      <Modified>2009-12-04T07:28:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Peter\Documents\Visual Studio 2012\Projects\Pritchi\ListenPritch\Pritchi\audio\03. Об орлах.mp3">
+      <PackagePath>audio\03. Об орлах.mp3</PackagePath>
+      <Modified>2009-12-04T07:28:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Peter\Documents\Visual Studio 2012\Projects\Pritchi\ListenPritch\Pritchi\audio\04. Об открытых дверях.mp3">
+      <PackagePath>audio\04. Об открытых дверях.mp3</PackagePath>
+      <Modified>2009-12-04T07:28:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Peter\Documents\Visual Studio 2012\Projects\Pritchi\ListenPritch\Pritchi\audio\05. О войне.mp3">
+      <PackagePath>audio\05. О войне.mp3</PackagePath>
+      <Modified>2009-12-04T07:28:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Peter\Documents\Visual Studio 2012\Projects\Pritchi\ListenPritch\Pritchi\audio\06. О кризисе.mp3">
+      <PackagePath>audio\06. О кризисе.mp3</PackagePath>
+      <Modified>2009-12-04T07:28:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Peter\Documents\Visual Studio 2012\Projects\Pritchi\ListenPritch\Pritchi\audio\07. О мастерстве.mp3">
+      <PackagePath>audio\07. О мастерстве.mp3</PackagePath>
+      <Modified>2009-12-04T07:25:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Peter\Documents\Visual Studio 2012\Projects\Pritchi\ListenPritch\Pritchi\audio\08. О рамках.mp3">
+      <PackagePath>audio\08. О рамках.mp3</PackagePath>
+      <Modified>2009-12-04T07:28:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Peter\Documents\Visual Studio 2012\Projects\Pritchi\ListenPritch\Pritchi\audio\09. О рыбе и воде.mp3">
+      <PackagePath>audio\09. О рыбе и воде.mp3</PackagePath>
+      <Modified>2009-12-04T07:28:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Peter\Documents\Visual Studio 2012\Projects\Pritchi\ListenPritch\Pritchi\audio\10. О советах.mp3">
+      <PackagePath>audio\10. О советах.mp3</PackagePath>
+      <Modified>2009-12-04T07:24:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Peter\Documents\Visual Studio 2012\Projects\Pritchi\ListenPritch\Pritchi\audio\11. О позитиве.mp3">
+      <PackagePath>audio\11. О позитиве.mp3</PackagePath>
+      <Modified>2009-12-04T07:28:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Peter\Documents\Visual Studio 2012\Projects\Pritchi\ListenPritch\Pritchi\audio\12. О мотивации.mp3">
+      <PackagePath>audio\12. О мотивации.mp3</PackagePath>
+      <Modified>2009-12-04T07:28:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Peter\Documents\Visual Studio 2012\Projects\Pritchi\ListenPritch\Pritchi\audio\13. О страхе.mp3">
+      <PackagePath>audio\13. О страхе.mp3</PackagePath>
+      <Modified>2009-12-04T07:28:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Peter\Documents\Visual Studio 2012\Projects\Pritchi\ListenPritch\Pritchi\audio\14. О ценности жизни.mp3">
+      <PackagePath>audio\14. О ценности жизни.mp3</PackagePath>
+      <Modified>2009-12-04T07:28:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Peter\Documents\Visual Studio 2012\Projects\Pritchi\ListenPritch\Pritchi\audio\15. О тиграх и обезьянах.mp3">
+      <PackagePath>audio\15. О тиграх и обезьянах.mp3</PackagePath>
+      <Modified>2009-12-04T07:24:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Peter\Documents\Visual Studio 2012\Projects\Pritchi\ListenPritch\Pritchi\audio\16.О трудностях.mp3">
+      <PackagePath>audio\16.О трудностях.mp3</PackagePath>
+      <Modified>2009-12-04T07:28:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Peter\Documents\Visual Studio 2012\Projects\Pritchi\ListenPritch\Pritchi\audio\17. PS.mp3">
+      <PackagePath>audio\17. PS.mp3</PackagePath>
+      <Modified>2009-12-04T07:28:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Peter\Documents\Visual Studio 2012\Projects\Pritchi\ListenPritch\Pritchi\audio\18. О жене богине.mp3">
+      <PackagePath>audio\18. О жене богине.mp3</PackagePath>
+      <Modified>2013-01-17T18:31:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Peter\Documents\Visual Studio 2012\Projects\Pritchi\ListenPritch\Pritchi\audio\19. О форме и наполнении.mp3">
+      <PackagePath>audio\19. О форме и наполнении.mp3</PackagePath>
+      <Modified>2013-01-17T18:55:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Peter\Documents\Visual Studio 2012\Projects\Pritchi\ListenPritch\Pritchi\audio\20. Об орлах.mp3">
+      <PackagePath>audio\20. Об орлах.mp3</PackagePath>
+      <Modified>2013-01-17T18:56:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Peter\Documents\Visual Studio 2012\Projects\Pritchi\ListenPritch\Pritchi\audio\21. О Жизни и смерти.mp3">
+      <PackagePath>audio\21. О Жизни и смерти.mp3</PackagePath>
+      <Modified>2013-01-17T18:54:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Peter\Documents\Visual Studio 2012\Projects\Pritchi\ListenPritch\Pritchi\audio\22. О Зависти.mp3">
+      <PackagePath>audio\22. О Зависти.mp3</PackagePath>
+      <Modified>2013-01-17T18:54:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Peter\Documents\Visual Studio 2012\Projects\Pritchi\ListenPritch\Pritchi\audio\23. О Качествах.mp3">
+      <PackagePath>audio\23. О Качествах.mp3</PackagePath>
+      <Modified>2013-01-17T18:55:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Peter\Documents\Visual Studio 2012\Projects\Pritchi\ListenPritch\Pritchi\audio\24. О Мировоззрении.mp3">
+      <PackagePath>audio\24. О Мировоззрении.mp3</PackagePath>
+      <Modified>2013-01-17T18:55:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Peter\Documents\Visual Studio 2012\Projects\Pritchi\ListenPritch\Pritchi\audio\25. О Мудрости.mp3">
+      <PackagePath>audio\25. О Мудрости.mp3</PackagePath>
+      <Modified>2013-01-17T18:55:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Peter\Documents\Visual Studio 2012\Projects\Pritchi\ListenPritch\Pritchi\audio\26. О Намерении.mp3">
+      <PackagePath>audio\26. О Намерении.mp3</PackagePath>
+      <Modified>2013-01-17T18:54:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Peter\Documents\Visual Studio 2012\Projects\Pritchi\ListenPritch\Pritchi\audio\27. О Направлении движения.mp3">
+      <PackagePath>audio\27. О Направлении движения.mp3</PackagePath>
+      <Modified>2013-01-17T18:55:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Peter\Documents\Visual Studio 2012\Projects\Pritchi\ListenPritch\Pritchi\audio\28. О Незнании.mp3">
+      <PackagePath>audio\28. О Незнании.mp3</PackagePath>
+      <Modified>2013-01-17T18:55:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Peter\Documents\Visual Studio 2012\Projects\Pritchi\ListenPritch\Pritchi\audio\30. О Подтасовках.mp3">
+      <PackagePath>audio\30. О Подтасовках.mp3</PackagePath>
+      <Modified>2013-01-17T18:55:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Peter\Documents\Visual Studio 2012\Projects\Pritchi\ListenPritch\Pritchi\audio\31. О Позитиве.mp3">
+      <PackagePath>audio\31. О Позитиве.mp3</PackagePath>
+      <Modified>2013-01-17T18:55:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Peter\Documents\Visual Studio 2012\Projects\Pritchi\ListenPritch\Pritchi\audio\32. О Помощи.mp3">
+      <PackagePath>audio\32. О Помощи.mp3</PackagePath>
+      <Modified>2013-01-17T18:55:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Peter\Documents\Visual Studio 2012\Projects\Pritchi\ListenPritch\Pritchi\audio\33. О Потом.mp3">
+      <PackagePath>audio\33. О Потом.mp3</PackagePath>
+      <Modified>2013-01-17T18:54:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Peter\Documents\Visual Studio 2012\Projects\Pritchi\ListenPritch\Pritchi\audio\34. О Правоте.mp3">
+      <PackagePath>audio\34. О Правоте.mp3</PackagePath>
+      <Modified>2013-01-17T18:55:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Peter\Documents\Visual Studio 2012\Projects\Pritchi\ListenPritch\Pritchi\audio\35. О Тактиках.mp3">
+      <PackagePath>audio\35. О Тактиках.mp3</PackagePath>
+      <Modified>2013-01-17T18:55:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Peter\Documents\Visual Studio 2012\Projects\Pritchi\ListenPritch\Pritchi\audio\36. О Хорошо и плохо.mp3">
+      <PackagePath>audio\36. О Хорошо и плохо.mp3</PackagePath>
+      <Modified>2013-01-17T18:54:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Peter\Documents\Visual Studio 2012\Projects\Pritchi\ListenPritch\Pritchi\audio\37. О Целях.mp3">
+      <PackagePath>audio\37. О Целях.mp3</PackagePath>
+      <Modified>2013-01-17T18:54:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Peter\Documents\Visual Studio 2012\Projects\Pritchi\ListenPritch\Pritchi\audio\38. Об Обидах.mp3">
+      <PackagePath>audio\38. Об Обидах.mp3</PackagePath>
+      <Modified>2013-01-17T18:54:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Peter\Documents\Visual Studio 2012\Projects\Pritchi\ListenPritch\Pritchi\audio\39. Об Окружении.mp3">
+      <PackagePath>audio\39. Об Окружении.mp3</PackagePath>
+      <Modified>2013-01-17T18:55:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Peter\Documents\Visual Studio 2012\Projects\Pritchi\ListenPritch\Pritchi\audio\40. Мимирендум.mp3">
+      <PackagePath>audio\40. Мимирендум.mp3</PackagePath>
+      <Modified>2013-01-17T18:39:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Peter\Documents\Visual Studio 2012\Projects\Pritchi\ListenPritch\Pritchi\audio\41. О просветлении.mp3">
+      <PackagePath>audio\41. О просветлении.mp3</PackagePath>
+      <Modified>2013-01-17T18:54:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Peter\Documents\Visual Studio 2012\Projects\Pritchi\ListenPritch\Pritchi\audio\42. О парадоксе.mp3">
+      <PackagePath>audio\42. О парадоксе.mp3</PackagePath>
+      <Modified>2013-01-17T18:53:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Peter\Documents\Visual Studio 2012\Projects\Pritchi\ListenPritch\Pritchi\audio\43. О мотивации.mp3">
+      <PackagePath>audio\43. О мотивации.mp3</PackagePath>
+      <Modified>2013-01-17T18:54:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Peter\Documents\Visual Studio 2012\Projects\Pritchi\ListenPritch\Pritchi\audio\45. О проблемах.mp3">
+      <PackagePath>audio\45. О проблемах.mp3</PackagePath>
+      <Modified>2013-01-17T18:53:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Peter\Documents\Visual Studio 2012\Projects\Pritchi\ListenPritch\Pritchi\audio\46. О пушистиках.mp3">
+      <PackagePath>audio\46. О пушистиках.mp3</PackagePath>
+      <Modified>2013-01-17T18:53:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Peter\Documents\Visual Studio 2012\Projects\Pritchi\ListenPritch\Pritchi\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2013-02-02T14:09:44.005</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Peter\Documents\Visual Studio 2012\Projects\Pritchi\ListenPritch\Pritchi\pages\itemDetail\itemDetail.css">
+      <PackagePath>pages\itemDetail\itemDetail.css</PackagePath>
+      <Modified>2013-01-20T16:11:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Peter\Documents\Visual Studio 2012\Projects\Pritchi\ListenPritch\Pritchi\pages\groupDetail\groupDetail.css">
+      <PackagePath>pages\groupDetail\groupDetail.css</PackagePath>
+      <Modified>2013-01-30T17:41:21.734</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Peter\Documents\Visual Studio 2012\Projects\Pritchi\ListenPritch\Pritchi\pages\groupedItems\groupedItems.css">
+      <PackagePath>pages\groupedItems\groupedItems.css</PackagePath>
+      <Modified>2013-01-30T17:00:04.574</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Peter\Documents\Visual Studio 2012\Projects\Pritchi\ListenPritch\Pritchi\pages\itemSplit\itemSplit.css">
+      <PackagePath>pages\itemSplit\itemSplit.css</PackagePath>
+      <Modified>2013-02-02T21:04:23.054</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Peter\Documents\Visual Studio 2012\Projects\Pritchi\ListenPritch\Pritchi\data\data.txt">
+      <PackagePath>data\data.txt</PackagePath>
+      <Modified>2013-01-29T08:29:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Peter\Documents\Visual Studio 2012\Projects\Pritchi\ListenPritch\Pritchi\images\2.jpg">
+      <PackagePath>images\2.jpg</PackagePath>
+      <Modified>2013-01-30T17:16:39.148</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Peter\Documents\Visual Studio 2012\Projects\Pritchi\ListenPritch\Pritchi\images\logo.png">
+      <PackagePath>images\logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-09-18T16:52:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Peter\Documents\Visual Studio 2012\Projects\Pritchi\ListenPritch\Pritchi\images\smalllogo.png">
+      <PackagePath>images\smalllogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-09-18T16:52:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Peter\Documents\Visual Studio 2012\Projects\Pritchi\ListenPritch\Pritchi\images\splashscreen.png">
+      <PackagePath>images\splashscreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-09-18T16:52:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Peter\Documents\Visual Studio 2012\Projects\Pritchi\ListenPritch\Pritchi\images\storelogo.png">
+      <PackagePath>images\storelogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-09-18T16:52:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Peter\Documents\Visual Studio 2012\Projects\Pritchi\ListenPritch\Pritchi\images\volume.png">
+      <PackagePath>images\volume.png</PackagePath>
+      <Modified>2013-01-20T19:03:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Peter\Documents\Visual Studio 2012\Projects\Pritchi\ListenPritch\Pritchi\js\data.js">
+      <PackagePath>js\data.js</PackagePath>
+      <Modified>2013-02-02T11:25:01.392</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Peter\Documents\Visual Studio 2012\Projects\Pritchi\ListenPritch\Pritchi\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2013-02-02T21:00:40.479</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Peter\Documents\Visual Studio 2012\Projects\Pritchi\ListenPritch\Pritchi\js\navigator.js">
+      <PackagePath>js\navigator.js</PackagePath>
+      <Modified>2013-01-20T16:11:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Peter\Documents\Visual Studio 2012\Projects\Pritchi\ListenPritch\Pritchi\pages\itemDetail\itemDetail.js">
+      <PackagePath>pages\itemDetail\itemDetail.js</PackagePath>
+      <Modified>2013-01-20T16:11:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Peter\Documents\Visual Studio 2012\Projects\Pritchi\ListenPritch\Pritchi\pages\groupDetail\groupDetail.js">
+      <PackagePath>pages\groupDetail\groupDetail.js</PackagePath>
+      <Modified>2013-02-02T06:41:27.791</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Peter\Documents\Visual Studio 2012\Projects\Pritchi\ListenPritch\Pritchi\pages\groupedItems\groupedItems.js">
+      <PackagePath>pages\groupedItems\groupedItems.js</PackagePath>
+      <Modified>2013-02-02T12:07:57.584</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Peter\Documents\Visual Studio 2012\Projects\Pritchi\ListenPritch\Pritchi\pages\itemSplit\itemSplit.js">
+      <PackagePath>pages\itemSplit\itemSplit.js</PackagePath>
+      <Modified>2013-02-02T21:21:18.042</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Peter\Documents\Visual Studio 2012\Projects\Pritchi\ListenPritch\Pritchi\pages\itemDetail\itemDetail.html">
+      <PackagePath>pages\itemDetail\itemDetail.html</PackagePath>
+      <Modified>2013-01-20T16:11:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Peter\Documents\Visual Studio 2012\Projects\Pritchi\ListenPritch\Pritchi\pages\groupDetail\groupDetail.html">
+      <PackagePath>pages\groupDetail\groupDetail.html</PackagePath>
+      <Modified>2013-01-30T17:39:17.455</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Peter\Documents\Visual Studio 2012\Projects\Pritchi\ListenPritch\Pritchi\pages\groupedItems\groupedItems.html">
+      <PackagePath>pages\groupedItems\groupedItems.html</PackagePath>
+      <Modified>2013-01-30T17:00:04.566</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Peter\Documents\Visual Studio 2012\Projects\Pritchi\ListenPritch\Pritchi\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2013-02-02T14:08:28.983</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Peter\Documents\Visual Studio 2012\Projects\Pritchi\ListenPritch\Pritchi\pages\itemSplit\itemSplit.html">
+      <PackagePath>pages\itemSplit\itemSplit.html</PackagePath>
+      <Modified>2013-02-02T09:40:01.074</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Peter\Documents\Visual Studio 2012\Projects\Pritchi\ListenPritch\Pritchi\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-01-30T20:03:04.517</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\">
+      <Name>Microsoft.WinJS.1.0</Name>
+      <Version>1.0.9200.20512</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.1.0, MinVersion=1.0.9200.20512</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\Microsoft.WinJS.1.0.appx</AppxLocation>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
